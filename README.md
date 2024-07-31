@@ -1,1 +1,1 @@
-We love Shopify.
+We 💚 Shopify.
