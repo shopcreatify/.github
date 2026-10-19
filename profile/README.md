@@ -1,7 +1,4 @@
-![ShopCreatify Banner](https://cdn.shopify.com/s/files/1/0798/7979/files/github-header.png?v=1722428990)
-
-ShopCreatify: Your Shopify Expert
----------------------------------
+# ShopCreatify: Your Shopify Expert
 
 **ShopCreatify** is an e-commerce agency specializing in Shopify platforms. We offer a range of services to help businesses of all sizes succeed online.
 
